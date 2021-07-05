@@ -28,10 +28,10 @@ p {
   margin-top: 10%;
 }
 #height-2 {
-  margin-left: %;
+  margin-left: 2%;
   margin-right: 3%;
+  margin-bottom: 5%;
 }
-
 .button {
   text-decoration: none;
   padding: 20px 40px;
@@ -39,4 +39,15 @@ p {
   background-image: linear-gradient(rgb(0, 195, 255), lightblue);
   border-radius: 32px;
   color: white;
+}
+.mid-width {
+  padding-top: 10%;
+  padding-bottom: 20%;
+  margin-left: 50%;
+  text-align: justify;
+  margin-right: 15%;
+}
+.mid-side {
+  background-image: url(images/Cover.png);
+  background-size: cover;
 }
