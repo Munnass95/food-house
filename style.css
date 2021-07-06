@@ -1,5 +1,6 @@
 body {
   font-family: "Montserrat", sans-serif;
+  margin: 0;
 }
 h1 {
   font-size: 65px;
@@ -50,4 +51,30 @@ p {
 .mid-side {
   background-image: url(images/Cover.png);
   background-size: cover;
+}
+.recipie-width {
+  width: 20%;
+  border-radius: 20px;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 0%;
+  padding: 1%;
+  box-shadow: 10px 10px 40px gray;
+}
+#food-1 {
+  margin-left: 13%;
+}
+#food-2 {
+}
+#food-3 {
+}
+.recipie-width img {
+  width: 100%;
+  border-radius: 5%;
+}
+#recipie {
+  text-align: center;
+  margin-top: 5%;
+  padding-left: 25%;
+  padding-right: 25%;
 }
